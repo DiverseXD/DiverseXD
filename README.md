@@ -9,3 +9,10 @@ I am a developer who is currently studying Software Engineering and a former dev
 *   🌍  I'm based in Brasil, brasilia.
 *   ✉️  You can contact me at [diversexisde@proton.me](mailto:diversexisde@proton.me)
 *   
+
+Currently working in
+--------------------------
+
+* Js
+* Java
+* C++
